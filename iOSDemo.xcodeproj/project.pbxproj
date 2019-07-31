@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B562488C22F0B29F008AB50F /* Thakaa App-04.png in Resources */ = {isa = PBXBuildFile; fileRef = B562488B22F0B29F008AB50F /* Thakaa App-04.png */; };
+		B562488E22F0B346008AB50F /* Thakaa App-04.svg in Resources */ = {isa = PBXBuildFile; fileRef = B562488D22F0B346008AB50F /* Thakaa App-04.svg */; };
 		B5ABE9B722F09F8200D1BDB2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5ABE9B622F09F8200D1BDB2 /* AppDelegate.swift */; };
 		B5ABE9B922F09F8200D1BDB2 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5ABE9B822F09F8200D1BDB2 /* FirstViewController.swift */; };
 		B5ABE9BB22F09F8200D1BDB2 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5ABE9BA22F09F8200D1BDB2 /* SecondViewController.swift */; };
@@ -35,6 +37,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		B562488B22F0B29F008AB50F /* Thakaa App-04.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Thakaa App-04.png"; path = "../../../Documents/Thakaa Logo/Thakaa App-04.png"; sourceTree = "<group>"; };
+		B562488D22F0B346008AB50F /* Thakaa App-04.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "Thakaa App-04.svg"; path = "../../../Documents/Thakaa Logo/Thakaa App-04.svg"; sourceTree = "<group>"; };
 		B5ABE9B322F09F8200D1BDB2 /* iOSDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iOSDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B5ABE9B622F09F8200D1BDB2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B5ABE9B822F09F8200D1BDB2 /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
@@ -99,6 +103,7 @@
 		B5ABE9B522F09F8200D1BDB2 /* iOSDemo */ = {
 			isa = PBXGroup;
 			children = (
+				B562488B22F0B29F008AB50F /* Thakaa App-04.png */,
 				B5ABE9B622F09F8200D1BDB2 /* AppDelegate.swift */,
 				B5ABE9B822F09F8200D1BDB2 /* FirstViewController.swift */,
 				B5ABE9BA22F09F8200D1BDB2 /* SecondViewController.swift */,
@@ -106,6 +111,7 @@
 				B5ABE9BF22F09F8200D1BDB2 /* Assets.xcassets */,
 				B5ABE9C122F09F8200D1BDB2 /* LaunchScreen.storyboard */,
 				B5ABE9C422F09F8200D1BDB2 /* Info.plist */,
+				B562488D22F0B346008AB50F /* Thakaa App-04.svg */,
 			);
 			path = iOSDemo;
 			sourceTree = "<group>";
@@ -232,7 +238,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B562488C22F0B29F008AB50F /* Thakaa App-04.png in Resources */,
 				B5ABE9C322F09F8200D1BDB2 /* LaunchScreen.storyboard in Resources */,
+				B562488E22F0B346008AB50F /* Thakaa App-04.svg in Resources */,
 				B5ABE9C022F09F8200D1BDB2 /* Assets.xcassets in Resources */,
 				B5ABE9BE22F09F8200D1BDB2 /* Main.storyboard in Resources */,
 			);
